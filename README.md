@@ -1,5 +1,6 @@
 # Unit-4-Game
 Homework Assignment #4
+<<<<<<< HEAD
  
 
 1. The player will be shown a random number at the start of my game
@@ -16,3 +17,5 @@ Homework Assignment #4
 7. The game restarts whenever the player wins or loses
 
 8. When the game begins again, the player should see a new random number. Also, all       the crystals will have four new hidden values. Of course, the user's score (and        score counter) will reset to zero.
+=======
+>>>>>>> ed864060428c12b2a6d46c02904a9bb5c3e96e7d
